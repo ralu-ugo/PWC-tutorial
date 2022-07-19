@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap');
+
+*{
+    margin: 5px;
+    font-weight: 500;
+    font-family: 'DM Sans', sans-serif;
+}
